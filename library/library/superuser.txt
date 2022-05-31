@@ -1,0 +1,8 @@
+Username = ad
+password = ad
+email = ad@ad.com
+
+
+normaluser
+username = ken
+password = ken12345
